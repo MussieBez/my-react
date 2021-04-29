@@ -1,0 +1,1108 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:700italic,300italic,900,400,700,400italic,300|Overpass:900,400,700,400italic,600");
+
+@font-face {
+  font-family: "SegoeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c4fb9717d3628000b06e02f/segoe-ui.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.border-3px-black {
+  border: 3px solid var(--black);
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.nunitosans-normal-silver-10px {
+  color: var(--silver);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-black-black-23px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 900;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-15px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-black-20px {
+  color: var(--black);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-bold-fire-bush-12px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-fire-bush-20px {
+  color: var(--fire-bush);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gravel-15px {
+  color: var(--gravel);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-12px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-normal-gray-15px {
+  color: var(--gray);
+  font-family: "Overpass", Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --black-haze: rgba(247, 247, 247, 1);
+  --cararra: rgba(235, 235, 235, 1);
+  --dove-gray: rgba(112, 112, 112, 1);
+  --fire-bush: rgba(231, 148, 42, 1);
+  --gravel: rgba(74, 74, 74, 1);
+  --gray: rgba(126, 126, 126, 1);
+  --silver: rgba(192, 192, 192, 1);
+  --white: rgba(255, 255, 255, 1);
+}

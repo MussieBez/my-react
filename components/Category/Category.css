@@ -1,0 +1,741 @@
+.accessories {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.auto-flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 168.82px;
+  min-height: 50px;
+  width: 68px;
+}
+.auto-flex1 {
+  align-items: center;
+  display: flex;
+  min-width: 477px;
+}
+.auto-flex2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 328px;
+  width: 108px;
+}
+.auto-flex3 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 168.82px;
+  margin-left: 39px;
+  min-height: 50px;
+  width: 94px;
+}
+.auto-flex4 {
+  align-items: flex-start;
+  display: flex;
+  height: 542px;
+  min-width: 776px;
+}
+.auto-flex5 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 164px;
+  min-height: 656px;
+  width: 776px;
+}
+.auto-flex6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 69px;
+  margin-top: 38.5px;
+  min-height: 428px;
+  width: 76px;
+}
+.auto-flex7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 623px;
+}
+.auto-flex8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 142px;
+  margin-top: 38.5px;
+  min-height: 254px;
+  width: 54px;
+}
+.auto-flex9 {
+  align-items: flex-start;
+  display: flex;
+  height: 694px;
+  margin-left: 25.0px;
+  margin-top: 151px;
+  min-width: 1761px;
+}
+.backpacks {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.bags {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.ballcap {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.blouses {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.boots {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.bottoms {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.bracelets {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.brands {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.category {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+.coat {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.component-21-1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 21px;
+  left: 501px;
+  min-width: 21px;
+  padding: 4.4px 4.5px;
+  position: absolute;
+  top: 0px;
+}
+.component-22-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 224px;
+  min-width: 522px;
+  position: absolute;
+  top: 26px;
+}
+.dresses {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.earings {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.flats {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.group-173 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  left: 6px;
+  min-width: 21px;
+  padding: 4.4px 4.5px;
+  position: absolute;
+  top: 0px;
+}
+.hats {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.headbands {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.heels {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.jacket {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.last-chance {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 2px;
+  min-height: 18px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+.leggings {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.line-2 {
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+.line-2-1 {
+  height: 2px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+.line-57 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 22px;
+  width: 43px;
+}
+.line-58 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 22px;
+  width: 104px;
+}
+.line-59 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 22px;
+  width: 50px;
+}
+.line-6 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 22px;
+  width: 42px;
+}
+.line-62 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 22px;
+  width: 74px;
+}
+.line-63 {
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 22px;
+  width: 64px;
+}
+.log-in {
+  left: 1117px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+.log-in-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 1165px;
+  min-width: 350px;
+  position: absolute;
+  top: 26px;
+}
+.mask-group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 350px;
+}
+.mask-group-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 522px;
+}
+.name {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.nav {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+.necklaces {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.over-the-shoulder {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.overlap-group {
+  height: 36px;
+  position: relative;
+  width: 54px;
+}
+.overlap-group-1 {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+.overlap-group1 {
+  height: 537px;
+  margin-left: 110px;
+  position: relative;
+  width: 202px;
+}
+.overlap-group10 {
+  height: 21px;
+  position: relative;
+  width: 522px;
+}
+.overlap-group2 {
+  height: 36px;
+  position: relative;
+  width: 108px;
+}
+.overlap-group3 {
+  height: 36px;
+  margin-left: 0.5px;
+  margin-top: 55px;
+  position: relative;
+  width: 59px;
+}
+.overlap-group4 {
+  height: 36px;
+  margin-top: 55px;
+  position: relative;
+  width: 52px;
+}
+.overlap-group5 {
+  height: 36px;
+  margin-top: 55px;
+  position: relative;
+  width: 42px;
+}
+.overlap-group6 {
+  height: 36px;
+  position: relative;
+  width: 76px;
+}
+.overlap-group7 {
+  height: 79px;
+  position: relative;
+  width: 1920px;
+}
+.overlap-group8 {
+  height: 21px;
+  position: relative;
+  width: 350px;
+}
+.pants {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.path-292 {
+  height: 7px;
+  left: 953px;
+  position: absolute;
+  top: 63px;
+  width: 13px;
+}
+.path-292-1 {
+  height: 30px;
+  margin-right: 15.92px;
+  width: 16px;
+}
+.path-424 {
+  height: 30px;
+  margin-right: 0.68px;
+  width: 16px;
+}
+.path-5 {
+  height: 12px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.path-5-1 {
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.place {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.placeholder-person {
+  border-radius: 14.5px;
+  height: 29px;
+  left: 1686px;
+  position: absolute;
+  top: 25px;
+  width: 29px;
+}
+.rectangle-255 {
+  background-color: var(--white);
+  box-shadow: -5px 0px 15px rgba(0,0,0,0.051);;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.rings {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.sandles {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.see-all-items {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 180.5px;
+  margin-top: 96px;
+  min-height: 18px;
+  min-width: 80px;
+  white-space: nowrap;
+}
+.see-new-arrivals {
+  color: var(--gray);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-top: 2px;
+  min-height: 18px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+.shoes {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.shorts {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.sign-up {
+  left: 752px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+.skirt {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.sneakers {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.sweater {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.sweatpants {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.sweatshirt {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.t-shirts {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.text-1 {
+  height: 518px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 19px;
+  width: 202px;
+}
+.text-2 {
+  align-self: flex-end;
+  height: 523px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 22px;
+  min-height: 523px;
+  width: 202px;
+}
+.the-mercer-club {
+  left: 852px;
+  letter-spacing: 0.28px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+.tops {
+  color: var(--black);
+  font-family: 'Nunito Sans', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.track-pants {
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-bottom: -12px;
+  margin-left: 0.5px;
+  margin-top: 7px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+.wallets {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+.x8-dc2-ce6-f-0-c-0-e5-d70-a1jpeg {
+  height: 619px;
+  margin-left: 41px;
+  width: 368px;
+}
